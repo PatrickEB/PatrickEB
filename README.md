@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrickE from Belgium, Europe, allround Windows systems administrator since early 1990's and developer since the early 1980's.
+- 👋 Hi, I’m @PatrickE from Belgium, Europe, allround Windows systems administrator since the early 1990's and developer since the early 1980's.
 
 - 👀 I’m (still) interested in coding and automating day-to-day mundane tasks for Windows systems administrators.
 I'm planning to make available to the wider community a small range of useful wide-scope tools that I developed in my 10 past years of day-to-day Windows network administration.
